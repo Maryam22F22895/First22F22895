@@ -1,4 +1,4 @@
-# Store discount system
+# discount system
 total_price = 0
 item_prices = []
 for i in range(1, 6):
@@ -19,3 +19,4 @@ if discounted_price < total_price:
     print("You saved $", savings)
 else:
     print("No discount applied")
+    changes are made by collaborator 
