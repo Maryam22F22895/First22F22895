@@ -19,3 +19,4 @@ if discounted_price < total_price:
     print("You saved $", savings)
 else:
     print("No discount applied")
+    maryam branch draft 2
